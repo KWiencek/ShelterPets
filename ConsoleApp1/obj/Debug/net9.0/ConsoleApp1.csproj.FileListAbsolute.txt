@@ -1,0 +1,28 @@
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/timothywiencek/Kirstie Wiencek/ShelterPetsProject/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/Kirstie_Wiencek/Git/ShelterPets/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
